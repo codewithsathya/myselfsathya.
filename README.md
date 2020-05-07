@@ -1,2 +1,4 @@
 # hello-world
-Created to know about github
+Hi friends!
+
+Sathya here, I am a web developer and learning app-development. 
